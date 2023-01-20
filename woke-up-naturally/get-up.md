@@ -15,6 +15,5 @@
     <p><a href="go-to-work.md">Go to work</a></p>
     <p><a href="dont-go-to-work.md">Take a walk</a></p>
     </main>
-	<script src="index.js"></script>
   </body>
 </html>
